@@ -24,7 +24,8 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ## Links
-https://github.com/laperzyna/note-taker
+https://github.com/laperzyna/note-taker <br>
+https://notie-taker.herokuapp.com
 
 ## ScreenShots
 <img width="1124" alt="Screen Shot 2022-08-10 at 5 13 56 PM" src="https://user-images.githubusercontent.com/90733086/184044211-9c61287d-6a72-4d03-b2ec-a4bf2318fa00.png">
